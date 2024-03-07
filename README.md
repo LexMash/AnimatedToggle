@@ -4,4 +4,4 @@ A simple animated toggle for Unity.
 
 All animation is created using DOTween.
 
-All you need is to use a prefab in folred "Prefabs" and configure some parameters.
+All you need is to use a prefab in folder "Prefabs" and configure some parameters.
